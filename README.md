@@ -5,7 +5,7 @@ In today’s world watching online movies have become a popular trend and a dail
 # How to get your own API key?
 Create an account in https://www.themoviedb.org/ else login if you have already just login, click on the API from menu bar  in your account settings and click on create new API key and fill all the details to apply for API key. It gonna ask for the website URL, just give "NA" if you don't have one. You will see the API key in your API menu bar once your request is approved.
 # How to setup and run?
-Here's a step-by-step guide to setting up and running our movie recommendation system project using sentiment analysis in Anaconda Jupyter Notebook:
+Here's a step-by-step guide to setting up and run our movie recommendation system project using sentiment analysis in Anaconda Jupyter Notebook:
 
 1. *Install Anaconda* : If you haven't already, download and install Anaconda from the official website: https://www.anaconda.com/products/distribution. Follow the installation instructions for your operating system.
 
@@ -31,4 +31,4 @@ Here's a step-by-step guide to setting up and running our movie recommendation s
 
 12. *Test and Evaluate*: Test your recommendation system with sample queries or user interactions to see how well it performs. You can also evaluate the system's accuracy and effectiveness using metrics like precision, recall, and accuracy.
 
-That's a high-level overview of setting up and running our movie recommendation system project in Anaconda Jupyter Notebook.
+That's a high-level overview of setting up and run our movie recommendation system project in Anaconda Jupyter Notebook.
